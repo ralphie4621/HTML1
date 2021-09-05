@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 # HTML1/newindex.
 <html>
+  <head>
+    <title>May peace bring upon</title>
+  </head>
   <body>
     <img src="img_nightsky.jpg">
     
