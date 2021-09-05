@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # HTML1/newindex.
 <html>
   <body>
